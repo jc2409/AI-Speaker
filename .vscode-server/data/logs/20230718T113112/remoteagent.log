@@ -10,3 +10,4 @@
 2023-07-18 11:33:13.592 [info] [127.0.0.1][1d6fdb2f][ManagementConnection] New connection established.
 2023-07-18 11:33:13.634 [info] [127.0.0.1][f78e074d][ExtensionHostConnection] New connection established.
 2023-07-18 11:33:13.653 [info] [127.0.0.1][f78e074d][ExtensionHostConnection] <14997> Launched Extension Host Process.
+2023-07-18 11:38:13.516 [info] New EH opened, aborting shutdown
