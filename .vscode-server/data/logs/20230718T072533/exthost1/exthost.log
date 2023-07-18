@@ -1,0 +1,20 @@
+2023-07-18 07:25:51.081 [info] Extension host with pid 2057 started
+2023-07-18 07:25:51.106 [error] Error: EEXIST: file already exists, open '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock'
+2023-07-18 07:25:51.149 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-07-18 07:25:51.174 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': The pid 2010 appears to be gone.
+2023-07-18 07:25:51.175 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': Deleting a stale lock.
+2023-07-18 07:25:51.190 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': Lock acquired.
+2023-07-18 07:25:51.318 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-18 07:25:53.324 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-18 07:25:53.325 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-18 07:25:54.135 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 07:25:54.137 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 07:25:54.138 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 07:25:54.139 [info] Eager extensions activated
+2023-07-18 07:51:02.279 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-07-18 08:23:44.501 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-18 08:23:44.502 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-18 08:23:45.818 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-07-18 10:08:34.725 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-07-18 10:08:34.727 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-18 10:08:34.810 [info] Extension host with pid 2057 exiting with code 0

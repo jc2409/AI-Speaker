@@ -1,0 +1,16 @@
+2023-07-18 06:51:03.976 [info] Extension host with pid 2084 started
+2023-07-18 06:51:04.003 [error] Error: EEXIST: file already exists, open '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock'
+2023-07-18 06:51:04.048 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-07-18 06:51:04.070 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac/vscode.lock': The lock does not look stale, elapsed: 115140 ms, giving up.
+2023-07-18 06:51:04.073 [error] Error: EEXIST: file already exists, open '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac-1/vscode.lock'
+2023-07-18 06:51:04.074 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-07-18 06:51:04.076 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac-1/vscode.lock': The pid 7391 appears to be gone.
+2023-07-18 06:51:04.077 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac-1/vscode.lock': Deleting a stale lock.
+2023-07-18 06:51:04.087 [info] Lock '/home/resl/.vscode-server/data/User/workspaceStorage/61b4aa0c860bc46b337cfd112b74d6ac-1/vscode.lock': Lock acquired.
+2023-07-18 06:51:04.236 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-18 06:51:04.388 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-18 06:51:04.389 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-18 06:51:04.932 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 06:51:04.933 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 06:51:04.935 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-18 06:51:04.936 [info] Eager extensions activated

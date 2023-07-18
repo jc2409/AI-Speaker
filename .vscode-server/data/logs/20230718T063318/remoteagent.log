@@ -1,0 +1,6 @@
+2023-07-18 06:33:18.467 [info] Extension host agent started.
+2023-07-18 06:33:18.699 [error] [127.0.0.1][d2cab732][ManagementConnection] Unknown reconnection token (never seen).
+2023-07-18 06:33:18.735 [error] [127.0.0.1][ea7d14c0][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-07-18 06:33:31.439 [info] [127.0.0.1][be0262b3][ManagementConnection] New connection established.
+2023-07-18 06:33:31.459 [info] [127.0.0.1][81b1716b][ExtensionHostConnection] New connection established.
+2023-07-18 06:33:31.471 [info] [127.0.0.1][81b1716b][ExtensionHostConnection] <2119> Launched Extension Host Process.

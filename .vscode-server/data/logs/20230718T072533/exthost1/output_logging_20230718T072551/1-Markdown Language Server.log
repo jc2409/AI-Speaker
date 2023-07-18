@@ -1,0 +1,10 @@
+[Trace 07:23:45.552] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:45.556] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:45.562] Server: connection.languages.diagnostics.on: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:45.571] Server: connection.languages.diagnostics.on: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:45.588] DocumentSymbolProvider: provideDocumentSymbols — file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md 1
+[Debug 07:23:45.590] LinkProvider: compute - file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Debug 07:23:45.860] MdFoldingProvider: provideFoldingRanges — file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md 1
+[Debug 07:23:45.861] TableOfContentsProvider: create - file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:53.928] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md
+[Trace 07:23:53.929] VsCodeClientWorkspace: deleteDocument: file:///home/resl/ChatGPT-OpenAI-Smart-Speaker/README.md

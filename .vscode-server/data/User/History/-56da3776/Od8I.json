@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.0.106": "linux",
+        "172.10.20.86": "linux",
+        "192.168.0.105": "linux",
+        "192.168.0.107": "linux",
+        "192.168.0.100": "linux"
+    }
+}

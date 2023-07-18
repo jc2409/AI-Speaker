@@ -1,0 +1,133 @@
+2023-07-18 06:21:56.613 [info] Log level: Info
+2023-07-18 06:21:56.613 [info] Validating found git in: "git"
+2023-07-18 06:21:56.613 [info] Using git "2.30.2" from "git"
+2023-07-18 06:21:56.613 [info] > git rev-parse --show-toplevel [233ms]
+2023-07-18 06:21:56.613 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.614 [info] > git rev-parse --show-toplevel [31ms]
+2023-07-18 06:21:56.614 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2023-07-18 06:21:56.614 [info] Open repository: /home/resl/ChatGPT-OpenAI-Smart-Speaker
+2023-07-18 06:21:56.614 [info] > git rev-parse --show-toplevel [22ms]
+2023-07-18 06:21:56.614 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.614 [info] > git config --get commit.template [50ms]
+2023-07-18 06:21:56.614 [info] > git rev-parse --show-toplevel [38ms]
+2023-07-18 06:21:56.614 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.614 [info] > git rev-parse --show-toplevel [20ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [5ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [44ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [93ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [78ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [9ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [34ms]
+2023-07-18 06:21:56.615 [info] > git status -z -uall [234ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --git-dir --git-common-dir [52ms]
+2023-07-18 06:21:56.615 [info] Open repository: /home/resl/4mics_hat
+2023-07-18 06:21:56.615 [info] > git config --get commit.template [18ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [31ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git config --get commit.template [20ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [32ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [40ms]
+2023-07-18 06:21:56.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [82ms]
+2023-07-18 06:21:56.615 [info] > git status -z -uall [42ms]
+2023-07-18 06:21:56.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2023-07-18 06:21:56.615 [info] > git rev-parse --show-toplevel [86ms]
+2023-07-18 06:21:56.615 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.615 [info] > git status -z -uall [60ms]
+2023-07-18 06:21:56.616 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [50ms]
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [131ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [12ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [16ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [4ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [5ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-18 06:21:56.616 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-07-18 06:21:56.616 [info] Open repository: /home/resl/seeed-voicecard
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [23ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git config --get commit.template [16ms]
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [5ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [13ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v6.1 refs/remotes/v6.1 [16ms]
+2023-07-18 06:21:56.616 [info] > git rev-parse --show-toplevel [33ms]
+2023-07-18 06:21:56.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-18 06:21:56.616 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2023-07-18 06:21:56.616 [info] > git status -z -uall [90ms]
+2023-07-18 06:21:56.616 [info] > git show --textconv :.env [15ms]
+2023-07-18 06:21:56.616 [info] > git ls-files --stage -- /home/resl/ChatGPT-OpenAI-Smart-Speaker/.env [5ms]
+2023-07-18 06:21:57.056 [info] > git check-ignore -v -z --stdin [34ms]
+2023-07-18 06:21:57.060 [info] > git check-ignore -v -z --stdin [23ms]
+2023-07-18 06:21:57.062 [info] > git check-ignore -v -z --stdin [12ms]
+2023-07-18 06:21:57.781 [info] > git fetch [909ms]
+2023-07-18 06:21:57.784 [info] > git fetch [888ms]
+2023-07-18 06:21:57.812 [info] > git config --get commit.template [13ms]
+2023-07-18 06:21:57.813 [info] > git fetch [929ms]
+2023-07-18 06:21:57.828 [info] > git config --get commit.template [18ms]
+2023-07-18 06:21:57.850 [info] > git config --get commit.template [24ms]
+2023-07-18 06:21:57.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2023-07-18 06:21:57.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v6.1 refs/remotes/v6.1 [39ms]
+2023-07-18 06:21:57.912 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2023-07-18 06:21:57.936 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [60ms]
+2023-07-18 06:21:57.940 [info] > git status -z -uall [77ms]
+2023-07-18 06:21:57.940 [info] > git status -z -uall [41ms]
+2023-07-18 06:21:57.941 [info] > git status -z -uall [18ms]
+2023-07-18 06:21:57.948 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+2023-07-18 06:21:57.954 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2023-07-18 06:21:59.006 [info] > git config --get commit.template [13ms]
+2023-07-18 06:21:59.007 [info] > git config --get commit.template [26ms]
+2023-07-18 06:21:59.009 [info] > git config --get commit.template [5ms]
+2023-07-18 06:21:59.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2023-07-18 06:21:59.074 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+2023-07-18 06:21:59.101 [info] > git status -z -uall [40ms]
+2023-07-18 06:21:59.102 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+2023-07-18 06:21:59.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v6.1 refs/remotes/v6.1 [67ms]
+2023-07-18 06:21:59.136 [info] > git status -z -uall [18ms]
+2023-07-18 06:21:59.138 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2023-07-18 06:21:59.138 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [43ms]
+2023-07-18 06:21:59.147 [info] > git status -z -uall [62ms]
+2023-07-18 06:21:59.179 [info] > git ls-files --stage -- /home/resl/ChatGPT-OpenAI-Smart-Speaker/.env [5ms]
+2023-07-18 06:22:00.953 [info] > git show --textconv :.env [4ms]
+2023-07-18 06:24:58.622 [info] > git fetch [664ms]
+2023-07-18 06:24:58.652 [info] > git config --get commit.template [15ms]
+2023-07-18 06:24:58.655 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-07-18 06:24:58.682 [info] > git fetch [713ms]
+2023-07-18 06:24:58.685 [info] > git fetch [704ms]
+2023-07-18 06:24:58.712 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2023-07-18 06:24:58.713 [info] > git config --get commit.template [17ms]
+2023-07-18 06:24:58.715 [info] > git config --get commit.template [4ms]
+2023-07-18 06:24:58.736 [info] > git status -z -uall [65ms]
+2023-07-18 06:24:58.736 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v6.1 refs/remotes/v6.1 [12ms]
+2023-07-18 06:24:58.765 [info] > git status -z -uall [18ms]
+2023-07-18 06:24:58.766 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-07-18 06:24:58.771 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2023-07-18 06:24:58.792 [info] > git status -z -uall [11ms]
+2023-07-18 06:24:58.795 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-07-18 06:24:59.911 [info] > git config --get commit.template [41ms]
+2023-07-18 06:24:59.912 [info] > git config --get commit.template [66ms]
+2023-07-18 06:24:59.916 [info] > git config --get commit.template [10ms]
+2023-07-18 06:24:59.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2023-07-18 06:24:59.977 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v6.1 refs/remotes/v6.1 [25ms]
+2023-07-18 06:24:59.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [56ms]
+2023-07-18 06:25:00.020 [info] > git status -z -uall [33ms]
+2023-07-18 06:25:00.020 [info] > git status -z -uall [12ms]
+2023-07-18 06:25:00.023 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+2023-07-18 06:25:00.029 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [54ms]
+2023-07-18 06:25:00.031 [info] > git status -z -uall [66ms]
+2023-07-18 06:25:00.036 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2023-07-18 06:25:01.122 [info] > git ls-files --stage -- /home/resl/ChatGPT-OpenAI-Smart-Speaker/.env [14ms]
+2023-07-18 06:25:01.257 [info] > git show --textconv :.env [4ms]
