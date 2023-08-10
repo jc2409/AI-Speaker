@@ -73,6 +73,6 @@ def main():
 ```
 ```token = "Access Token Address"``` update Access Token Address as you received before.
 
-### Now Humelo's STT should work!
+### Now Humelo's TTS should work!
 
 
