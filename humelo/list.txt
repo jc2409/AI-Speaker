@@ -1,0 +1,74 @@
+{
+"voiceType":"COMMON",
+"uid":"b9035446-aea9-4fb7-87b9-7d6945ab2b89",
+"name":"vos-kt24",
+"displayName":"상중",
+"isEnabled":true,
+"tags":[
+    {"id":7,"tagName":"male","tagLabel":"남자","categoryName":"gender","isEnabled":true},
+    {"id":15,"tagName":"tone_low","tagLabel":"저음","categoryName":"tone","isEnabled":true},
+    {"id":9,"tagName":"korean","tagLabel":"한국어","categoryName":"language","isEnabled":true},
+    {"id":5,"tagName":"40s","tagLabel":"40대","categoryName":"age","isEnabled":true},
+    {"id":18,"tagName":"권위적인","tagLabel":"권위적인","categoryName":"atmosphere","isEnabled":true},
+    {"id":25,"tagName":"단호한","tagLabel":"단호한","categoryName":"atmosphere","isEnabled":true},
+    {"id":28,"tagName":"믿음직한","tagLabel":"믿음직한","categoryName":"atmosphere","isEnabled":true}
+    ],
+"emotions":[
+    {"name":"N","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"A","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"C","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"H","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"S","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true}
+    ],
+"languages":["ko","en","ja","zh","es"]
+},
+
+{
+"voiceType":"COMMON",
+"uid":"78bb6bc5-4c50-4d7f-a677-8a5d299d046e",
+"name":"vos-kt25",
+"displayName":"스칼렛",
+"isEnabled":true,
+"tags":[
+    {"id":8,"tagName":"female","tagLabel":"여자","categoryName":"gender","isEnabled":true},
+    {"id":13,"tagName":"tone_middle","tagLabel":"중음","categoryName":"tone","isEnabled":true},
+    {"id":9,"tagName":"korean","tagLabel":"한국어","categoryName":"language","isEnabled":true},
+    {"id":3,"tagName":"20s","tagLabel":"20대","categoryName":"age","isEnabled":true},
+    {"id":21,"tagName":"느끼한","tagLabel":"느끼한","categoryName":"atmosphere","isEnabled":true},
+    {"id":29,"tagName":"부드러운","tagLabel":"부드러운","categoryName":"atmosphere","isEnabled":true},
+    {"id":34,"tagName":"섹시한","tagLabel":"매력적인","categoryName":"atmosphere","isEnabled":true}
+    ],
+"emotions":[
+    {"name":"N","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"A","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"C","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"H","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"S","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true}],
+"languages":["ko","en","ja","zh","es"]
+},
+
+{
+"voiceType":"COMMON",
+"uid":"b2365b4d-bb27-4aab-aba8-e293ad01e7fe",
+"name":"vos-kt34",
+"displayName":"Benjamin",
+"isEnabled":true,
+"tags":[
+    {"id":2,"tagName":"under10","tagLabel":"10대 미만","categoryName":"age","isEnabled":true},
+    {"id":7,"tagName":"male","tagLabel":"남자","categoryName":"gender","isEnabled":true},
+    {"id":59,"tagName":"american","tagLabel":"미국 영어","categoryName":"language","isEnabled":true},
+    {"id":12,"tagName":"tone_middle_high","tagLabel":"중고음","categoryName":"tone","isEnabled":true},
+    {"id":19,"tagName":"귀여운","tagLabel":"귀여운","categoryName":"atmosphere","isEnabled":true},
+    {"id":22,"tagName":"다정한","tagLabel":"다정한","categoryName":"atmosphere","isEnabled":true},
+    {"id":16,"tagName":"개구쟁이","tagLabel":"개구쟁이","categoryName":"atmosphere","isEnabled":true}
+    ],
+"emotions":[
+    {"name":"N","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"A","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"C","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"H","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true},
+    {"name":"S","trainingStatus":"COMPLETE","decibel":0.0,"isEnabled":true}],
+"languages":["ko","en","ja","zh","es"]
+}
+
+
